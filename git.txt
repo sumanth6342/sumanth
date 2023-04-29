@@ -4,3 +4,4 @@ git
 git up
 udefh
 next day
+git push origin delete "branch name"
